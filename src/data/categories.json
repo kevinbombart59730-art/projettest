@@ -1,0 +1,42 @@
+[
+  {
+    "slug": "lecture",
+    "name": "Lecture",
+    "description": "Des ressources pour accompagner l'apprentissage de la lecture, de la découverte des lettres à la compréhension de textes.",
+    "image": "/images/categories/lecture.jpg",
+    "color": "#F9BCD0",
+    "icon": "📖"
+  },
+  {
+    "slug": "mathematiques",
+    "name": "Mathématiques",
+    "description": "Activités ludiques pour découvrir les nombres, le calcul et la logique mathématique.",
+    "image": "/images/categories/mathematiques.jpg",
+    "color": "#A8D4F0",
+    "icon": "🔢"
+  },
+  {
+    "slug": "grammaire",
+    "name": "Grammaire",
+    "description": "Fiches et jeux pour comprendre la grammaire française de manière amusante.",
+    "image": "/images/categories/grammaire.jpg",
+    "color": "#C5B3E6",
+    "icon": "✏️"
+  },
+  {
+    "slug": "ecriture",
+    "name": "Écriture",
+    "description": "Des supports pour s'entraîner à écrire, du graphisme aux productions écrites.",
+    "image": "/images/categories/ecriture.jpg",
+    "color": "#A7D7C5",
+    "icon": "🖊️"
+  },
+  {
+    "slug": "pluridisciplinarite",
+    "name": "Pluridisciplinarité",
+    "description": "Des activités transversales qui mêlent plusieurs disciplines pour un apprentissage global.",
+    "image": "/images/categories/pluridisciplinarite.jpg",
+    "color": "#FBE8A6",
+    "icon": "🌟"
+  }
+]
